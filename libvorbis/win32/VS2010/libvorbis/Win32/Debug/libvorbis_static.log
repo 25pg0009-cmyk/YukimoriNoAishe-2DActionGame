@@ -1,0 +1,26 @@
+﻿cl : コマンド ライン  warning D9035: オプション 'Gm' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  window.c
+  vorbisenc.c
+  synthesis.c
+  smallft.c
+  sharedbook.c
+  res0.c
+  registry.c
+  psy.c
+  mdct.c
+  mapping0.c
+  lsp.c
+  lpc.c
+  lookup.c
+  info.c
+  floor1.c
+  floor0.c
+  envelope.c
+  codebook.c
+  block.c
+  bitrate.c
+  コードを生成中...
+  コンパイル中...
+  analysis.c
+  コードを生成中...
+  libvorbis_static.vcxproj -> C:\Users\PG\Documents\就職活動用\雪森のアイシェ～封炎の誓い～_プロジェクトファイル\Game\libs\ogg\Win32\Debug\libvorbis_static.lib

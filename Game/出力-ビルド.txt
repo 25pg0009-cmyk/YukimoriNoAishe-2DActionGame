@@ -1,0 +1,14 @@
+﻿11:03 でビルドが開始されました...
+1>------ ビルド開始: プロジェクト: Game, 構成: Debug Win32 ------
+1>Game.cpp
+1>C:\Users\PG-Teacher\Desktop\UnlimitedLib\Game\Game.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+1>(ソース ファイル '/Game.cpp' をコンパイルしています)
+1>C:\Users\PG-Teacher\Desktop\UnlimitedLib\Game\Game.cpp(12,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+1>(ソース ファイル '/Game.cpp' をコンパイルしています)
+1>C:\Users\PG-Teacher\Desktop\UnlimitedLib\Game\Game.cpp(16,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+1>(ソース ファイル '/Game.cpp' をコンパイルしています)
+1>C:\Users\PG-Teacher\Desktop\UnlimitedLib\Game\Game.cpp(20,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+1>(ソース ファイル '/Game.cpp' をコンパイルしています)
+1>プロジェクト "Game.vcxproj" のビルドが終了しました -- 失敗。
+========== ビルド: 成功 0、失敗 1、最新の状態 3、スキップ 0 ==========
+=========== ビルド は 11:03 で完了し、00.390 秒 掛かりました ==========

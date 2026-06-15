@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <FxCompile Include="assets\Shader\2D.hlsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Animation.cpp" />
+    <ClCompile Include="CheckHitBox.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="Fireball.cpp" />
+    <ClCompile Include="FlameDemon.cpp" />
+    <ClCompile Include="flameimp.cpp" />
+    <ClCompile Include="flameslime.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="GameOver.cpp" />
+    <ClCompile Include="Goal.cpp" />
+    <ClCompile Include="hitblock.cpp" />
+    <ClCompile Include="IceBlock.cpp" />
+    <ClCompile Include="IceSpear.cpp" />
+    <ClCompile Include="imgui\imgui.cpp" />
+    <ClCompile Include="imgui\imgui_demo.cpp" />
+    <ClCompile Include="imgui\imgui_draw.cpp" />
+    <ClCompile Include="imgui\imgui_impl_dx11.cpp" />
+    <ClCompile Include="imgui\imgui_impl_win32.cpp" />
+    <ClCompile Include="imgui\imgui_widgets.cpp" />
+    <ClCompile Include="Item.cpp" />
+    <ClCompile Include="Loading.cpp" />
+    <ClCompile Include="MagicShard.cpp" />
+    <ClCompile Include="MainGame.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Pose.cpp" />
+    <ClCompile Include="Result.cpp" />
+    <ClCompile Include="GameSound.cpp" />
+    <ClCompile Include="Stage.cpp" />
+    <ClCompile Include="StageSelect.cpp" />
+    <ClCompile Include="Title.cpp" />
+    <ClCompile Include="UI.cpp" />
+    <ClCompile Include="UnlimitedLib\2DHelper.cpp" />
+    <ClCompile Include="UnlimitedLib\ConstantBuffer.cpp" />
+    <ClCompile Include="UnlimitedLib\DirectX.cpp" />
+    <ClCompile Include="UnlimitedLib\Helper\DDSHelpter.cpp" />
+    <ClCompile Include="UnlimitedLib\Helper\Font.cpp" />
+    <ClCompile Include="UnlimitedLib\IndexBuffer.cpp" />
+    <ClCompile Include="UnlimitedLib\InputLayout.cpp" />
+    <ClCompile Include="UnlimitedLib\Logger.cpp" />
+    <ClCompile Include="UnlimitedLib\ResourceBase.cpp" />
+    <ClCompile Include="UnlimitedLib\Shader.cpp" />
+    <ClCompile Include="UnlimitedLib\Sound.cpp" />
+    <ClCompile Include="UnlimitedLib\UnlimitedLib.cpp" />
+    <ClCompile Include="UnlimitedLib\Input.cpp" />
+    <ClCompile Include="UnlimitedLib\Texture.cpp" />
+    <ClCompile Include="UnlimitedLib\UnlimitedLibExtension.cpp" />
+    <ClCompile Include="UnlimitedLib\VertexBuffer.cpp" />
+    <ClCompile Include="UnlimitedLib\Window.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Effect.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h" />
+    <ClInclude Include="CheckHitBox.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="Fireball.h" />
+    <ClInclude Include="FlameDemon.h" />
+    <ClInclude Include="flameimp.h" />
+    <ClInclude Include="flameslime.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="GameOver.h" />
+    <ClInclude Include="Goal.h" />
+    <ClInclude Include="hitblock.h" />
+    <ClInclude Include="IceBlock.h" />
+    <ClInclude Include="IceSpear.h" />
+    <ClInclude Include="imgui\imconfig.h" />
+    <ClInclude Include="imgui\imgui.h" />
+    <ClInclude Include="imgui\imgui_impl_dx11.h" />
+    <ClInclude Include="imgui\imgui_impl_win32.h" />
+    <ClInclude Include="imgui\imgui_internal.h" />
+    <ClInclude Include="imgui\imstb_rectpack.h" />
+    <ClInclude Include="imgui\imstb_textedit.h" />
+    <ClInclude Include="imgui\imstb_truetype.h" />
+    <ClInclude Include="Item.h" />
+    <ClInclude Include="Loading.h" />
+    <ClInclude Include="MagicShard.h" />
+    <ClInclude Include="MainGame.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Pose.h" />
+    <ClInclude Include="Result.h" />
+    <ClInclude Include="GameSound.h" />
+    <ClInclude Include="Stage.h" />
+    <ClInclude Include="StageSelect.h" />
+    <ClInclude Include="Title.h" />
+    <ClInclude Include="UI.h" />
+    <ClInclude Include="UnlimitedLib\2DHelper.h" />
+    <ClInclude Include="UnlimitedLib\ConstantBuffer.h" />
+    <ClInclude Include="UnlimitedLib\Debug.h" />
+    <ClInclude Include="UnlimitedLib\DirectX.h" />
+    <ClInclude Include="UnlimitedLib\Helper\DDSHelpter.h" />
+    <ClInclude Include="UnlimitedLib\Helper\Font.h" />
+    <ClInclude Include="UnlimitedLib\Helper\FontData.h" />
+    <ClInclude Include="UnlimitedLib\IndexBuffer.h" />
+    <ClInclude Include="UnlimitedLib\InputLayout.h" />
+    <ClInclude Include="UnlimitedLib\Logger.h" />
+    <ClInclude Include="UnlimitedLib\ResourceBase.h" />
+    <ClInclude Include="UnlimitedLib\Shader.h" />
+    <ClInclude Include="UnlimitedLib\Sound.h" />
+    <ClInclude Include="UnlimitedLib\UnlimitedLib.h" />
+    <ClInclude Include="UnlimitedLib\Input.h" />
+    <ClInclude Include="UnlimitedLib\Texture.h" />
+    <ClInclude Include="UnlimitedLib\UnlimitedLibExtension.h" />
+    <ClInclude Include="UnlimitedLib\VertexBuffer.h" />
+    <ClInclude Include="UnlimitedLib\Window.h" />
+    <ClInclude Include="Effect.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Game.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\icon.ico" />
+  </ItemGroup>
+</Project>

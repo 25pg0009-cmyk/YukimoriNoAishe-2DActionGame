@@ -1,0 +1,9 @@
+diff a/aisye/aisye/Game/Player.h b/aisye/aisye/Game/Player.h	(rejected hunks)
+@@ -14,6 +14,7 @@
+ <<<<<<< HEAD
+ #define PLAYER_JUMP_FORCE 25 //16	//�v���C���[�W�����v��
+ =======
++#define PLAYER_JUMP_FORCE  18	//�v���C���[�W�����v��
+ >>>>>>> 7d8e49821c142b673a5db99f9174d810ef07f1a4
+ 
+ #define PLAYER_SPEED   20	//�v���C���[����

@@ -1,0 +1,5 @@
+﻿cl : コマンド ライン  warning D9035: オプション 'Gm' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  vorbisfile.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1564,5): warning MSB8012: TargetPath(C:\Users\PG\Documents\就職活動用\雪森のアイシェ～封炎の誓い～_プロジェクトファイル\Game\libs\ogg\Win32\Debug\libvorbisfile.lib) が Library の OutputFile プロパティ値 (C:\Users\PG\Documents\就職活動用\雪森のアイシェ～封炎の誓い～_プロジェクトファイル\Game\libs\ogg\Win32\Debug\libvorbisfile_static.lib) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1566,5): warning MSB8012: TargetName(libvorbisfile) が Library の OutputFile プロパティ値 (libvorbisfile_static) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+  libvorbisfile_static.vcxproj -> C:\Users\PG\Documents\就職活動用\雪森のアイシェ～封炎の誓い～_プロジェクトファイル\Game\libs\ogg\Win32\Debug\libvorbisfile.lib

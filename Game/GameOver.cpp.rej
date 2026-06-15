@@ -1,0 +1,9 @@
+diff a/aisye/aisye/Game/GameOver.cpp b/aisye/aisye/Game/GameOver.cpp	(rejected hunks)
+@@ -8,6 +8,7 @@
+ #include "MagicShard.h"
+ #include "Result.h"
+ #include "Player.h"
++=======
+ 
+ >>>>>>> af0ca0a810f314e38dbf5be6ef413452282f108d
+ int gameoverText;//�摜

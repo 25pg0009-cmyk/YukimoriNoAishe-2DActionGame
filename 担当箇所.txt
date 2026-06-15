@@ -1,0 +1,9 @@
+[担当箇所]
+Animation.h/cpp
+CheckHitBox.h/cpp
+FlameDemon.h/cpp
+hitblock.h/cpp
+iceBlock.h/cpp
+iceSpear.h/cpp
+Player.h/cpp
+UI.h/cpp
